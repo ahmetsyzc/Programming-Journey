@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\bin\Debug\Hesap Makinesi Projesi.exe.config
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\bin\Debug\Hesap Makinesi Projesi.exe
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\bin\Debug\Hesap Makinesi Projesi.pdb
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap Makinesi Projesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap_Makinesi_Projesi.Form1.resources
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap_Makinesi_Projesi.Properties.Resources.resources
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap Makinesi Projesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap Makinesi Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap Makinesi Projesi.exe
+C:\Users\User\Desktop\Form Projeler\Hesap Makinesi Projesi\Hesap Makinesi Projesi\obj\Debug\Hesap Makinesi Projesi.pdb
