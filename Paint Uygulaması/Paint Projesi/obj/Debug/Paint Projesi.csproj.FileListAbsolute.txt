@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\bin\Debug\Paint Projesi.exe.config
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\bin\Debug\Paint Projesi.exe
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\bin\Debug\Paint Projesi.pdb
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint Projesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint_Projesi.Form1.resources
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint_Projesi.Properties.Resources.resources
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint Projesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint Projesi.exe
+C:\Users\User\Desktop\Form Projeler\Paint Projesi\Paint Projesi\obj\Debug\Paint Projesi.pdb
